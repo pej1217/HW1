@@ -1,0 +1,40 @@
+body {
+    background-color:#FFFFBF;
+}
+
+h1 {
+    color:#DB8F00;
+}
+
+p {
+    color:#003377;
+}
+
+html {
+		font-size: 16pt;
+	}
+
+		@media screen and (max-width: 1680px) {
+
+			html {
+				font-size: 12pt;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			html {
+				font-size: 11pt;
+			}
+
+		}
+
+		@media screen and (max-width: 360px) {
+
+			html {
+				font-size: 10pt;
+			}
+
+		}
+
